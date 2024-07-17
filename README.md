@@ -4,12 +4,18 @@
 
 ### About me
 
-- Engineering Manager - Full stack Javascript and Typescript 🧑‍💻
-- Extensive experience with React and frontend architecture ⚡️
-- Solid grounding in Node, SQL databases, GCP infrastructure 🛠
+I help start-ups with non-technical founders get up and running faster. I offer support with technical decision making, coaching and engineering best practices. I also help establishing healthy, high performing and sustainable team cultures, to help engineers and businesses solve the most interesting problems.
+
+Technical experience:
+
+- Head of Engineering - Managing teams, setting standards, encouraging growth 🌱
+- Extensive experience with React and micro-frontend architecture ⚡️
+- Full stack Javascript and Typescript 🧑‍💻
+- Solid grounding in Node, SQL databases, GCP and AWS infrastructure 🛠
+- DevOps experience - Terraform, Azure and Gitlab CI/CD pipelines
 - TDD, TBD, Functional Programming ⚙️
 - Qualified in Non Violent Communication 🗣
-- Tai Chi and Qi Gong practitioner ☯️
+- Tai Chi and Qi Gong teacher ☯️
 
 ### Curriculum Vitae
 

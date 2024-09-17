@@ -1,14 +1,8 @@
 ## Alex Jukes
 
-### Fractional CTO
+### No-drama engineering
 
 [alexjukes.com](https://www.alexjukes.com)
-
-### About me
-
-Former Head of Engineering at [Intropic](www.intropic.io)
-
-I help start-ups with non-technical founders get up and running faster. I offer support with technical decision making, coaching and engineering best practices. I also help establishing healthy, high performing and sustainable team cultures, to help engineers and businesses solve the most interesting problems.
 
 Technical experience:
 
